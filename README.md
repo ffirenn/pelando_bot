@@ -11,6 +11,7 @@ O `Pelando Bot` é um bot de scraping desenvolvido para extrair informações do
 - Possibilidade de scrapar outras categorias da Pelando.
 - Integração com o Discord para enviar as ofertas a um canal do Discord.
 - Integração com o Telegram para enviar as ofertas a um canal do Telegram.
+- Armazenar as ofertas em um JSON ou banco de dados para não haver ofertas duplicadas.
 
 ## Instalação
 
