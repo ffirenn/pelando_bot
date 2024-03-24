@@ -1,7 +1,7 @@
 # pelando_bot
 
 ## Descrição
-O `Pelando Bot` é um bot de scraping desenvolvido para extrair informações do site Pelando (https://www.pelando.com.br/). Ele é projetado para coletar dados sobre ofertas, cupons e promoções disponíveis na plataforma e pode ser usado para diversos fins, como análise de preços, notificação de ofertas e muito mais.
+O `Pelando Bot` é um bot de scraping desenvolvido para extrair informações do site Pelando (https://www.pelando.com.br/). Ele é projetado para coletar dados sobre ofertas, cupons e promoções disponíveis na plataforma a cada 5 minutos e pode ser usado para diversos fins, como análise de preços, notificação de ofertas e muito mais.
 
 ## Funcionalidades
 - Coleta dados de ofertas, cupons e promoções da Pelando.
