@@ -28,7 +28,7 @@ O `Pelando Bot` é um bot de scraping desenvolvido para extrair informações do
 Você pode instalar as dependências Node.js usando o comando:
 ```bash
 npm install
-
+```
 Você pode instalar as dependências Python usando o comando:
 ```bash
 pip install -r requirements.txt
