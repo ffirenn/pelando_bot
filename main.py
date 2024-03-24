@@ -3,7 +3,7 @@ import json
 import time
 from bs4 import BeautifulSoup
 
-def enviar_oferta(oferta):
+def send_offer(oferta):
     url = "http://localhost:3000/oferta"
 
     dados_oferta = {
@@ -60,7 +60,7 @@ def check_offers():
                 print("URL da Oferta:", url_oferta)
                 print("Cupom de Desconto:", cupom_desconto)
 
-                enviar_oferta(oferta_mais_recente)
+                send_offer(oferta_mais_recente)
             else:
                 print("Nenhuma nova oferta encontrada.")
         else:
