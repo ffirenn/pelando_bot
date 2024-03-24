@@ -23,7 +23,8 @@ O `Pelando Bot` é um bot de scraping desenvolvido para extrair informações do
 ### Dependências Node.js
 - Node.js 16.x
 - Bibliotecas Node.js:
-  - Discord.js 14.x  
+  - Discord.js 14.x
+  - express
 
 Você pode instalar as dependências Node.js usando o comando:
 ```bash
