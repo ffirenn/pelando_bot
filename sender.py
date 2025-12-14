@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1449864276951957666/agydcHqZ0kU_z0Prr5qOjHIr4Uep_gEcjD948L4eGQi2VLGMaTTACNVOkgNgAOu7T32T"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/ID/TOKEN"
 
 
 def format_price_br(value: float) -> str:
